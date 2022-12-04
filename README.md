@@ -6,7 +6,7 @@ This year I'm *GO*nna learn a new programming language.
 - [x] [Day 1: Calorie Counting :cookie:](https://github.com/ggapac/advent-of-code-2022/tree/main/day01) 
 - [x] [Day 2: Rock Paper Scissors :scissors:](https://github.com/ggapac/advent-of-code-2022/tree/main/day02) 
 - [x] [Day 3: Rucksack Reorganization :school_satchel:](https://github.com/ggapac/advent-of-code-2022/tree/main/day03)
-- [ ] Day 4
+- [x] [Day 4: Camp Cleanup :broom:](https://github.com/ggapac/advent-of-code-2022/tree/main/day04)
 - [ ] Day 5
 - [ ] Day 6
 - [ ] Day 7
