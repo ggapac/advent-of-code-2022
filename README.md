@@ -1,6 +1,6 @@
 # :christmas_tree: Advent of code 2022 :christmas_tree:	
 
-This year I'm *GO*nna learn a new programming language.
+This year I'm *GO*nna learn a new programming language!
 
 ### Days
 - [x] [Day 1: Calorie Counting :cookie:](https://github.com/ggapac/advent-of-code-2022/tree/main/day01) 
@@ -8,7 +8,7 @@ This year I'm *GO*nna learn a new programming language.
 - [x] [Day 3: Rucksack Reorganization :school_satchel:](https://github.com/ggapac/advent-of-code-2022/tree/main/day03)
 - [x] [Day 4: Camp Cleanup :broom:](https://github.com/ggapac/advent-of-code-2022/tree/main/day04)
 - [x] [Day 5: Supply Stacks :package:](https://github.com/ggapac/advent-of-code-2022/tree/main/day05)
-- [ ] Day 6
+- [x] [Day 6: Tuning Trouble :pager:](https://github.com/ggapac/advent-of-code-2022/tree/main/day06)
 - [ ] Day 7
 - [ ] Day 8
 - [ ] Day 9
