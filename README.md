@@ -10,7 +10,7 @@ This year I'm *GO*nna learn a new programming language!
 - [x] [Day 5: Supply Stacks :package:](https://github.com/ggapac/advent-of-code-2022/tree/main/day05)
 - [x] [Day 6: Tuning Trouble :pager:](https://github.com/ggapac/advent-of-code-2022/tree/main/day06)
 - [x] [Day 7: No Space Left On Device :floppy_disk:](https://github.com/ggapac/advent-of-code-2022/tree/main/day07)
-- [ ] Day 8
+- [x] [Day 8: Treetop Tree House :house_with_garden:](https://github.com/ggapac/advent-of-code-2022/tree/main/day08)
 - [ ] Day 9
 - [ ] Day 10
 - [ ] Day 11
