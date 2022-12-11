@@ -13,7 +13,7 @@ This year I'm *GO*nna learn a new programming language!
 - [x] [Day 8: Treetop Tree House :house_with_garden:](https://github.com/ggapac/advent-of-code-2022/tree/main/day08)
 - [x] [Day 9: Rope Bridge :wavy_dash:](https://github.com/ggapac/advent-of-code-2022/tree/main/day09)
 - [x] [Day 10: Cathode-Ray Tube :tv:](https://github.com/ggapac/advent-of-code-2022/tree/main/day10)
-- [ ] Day 11
+- [x] [Day 11: Monkey in the Middle :speak_no_evil:](https://github.com/ggapac/advent-of-code-2022/tree/main/day11)
 - [ ] Day 12
 - [ ] Day 13
 - [ ] Day 14
