@@ -15,8 +15,8 @@ This year I'm *GO*nna learn a new programming language!
 - [x] [Day 10: Cathode-Ray Tube :tv:](https://github.com/ggapac/advent-of-code-2022/tree/main/day10)
 - [x] [Day 11: Monkey in the Middle :speak_no_evil:](https://github.com/ggapac/advent-of-code-2022/tree/main/day11)
 - [x] [Day 12: Hill Climbing Algorithm :mountain:](https://github.com/ggapac/advent-of-code-2022/tree/main/day12)
-- [ ] Day 13
-- [ ] Day 14
+- [ ] Day 13: TODO
+- [x] [Day 14: Regolith Reservoir :hourglass_flowing_sand:](https://github.com/ggapac/advent-of-code-2022/tree/main/day14)
 - [ ] Day 15
 - [ ] Day 16
 - [ ] Day 17
