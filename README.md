@@ -17,10 +17,10 @@ This year I'm *GO*nna learn a new programming language!
 - [x] [Day 12: Hill Climbing Algorithm :mountain:](https://github.com/ggapac/advent-of-code-2022/tree/main/day12)
 - [ ] Day 13: TODO
 - [x] [Day 14: Regolith Reservoir :hourglass_flowing_sand:](https://github.com/ggapac/advent-of-code-2022/tree/main/day14)
-- [ ] Day 15
-- [ ] Day 16
-- [ ] Day 17
-- [ ] Day 18
+- [ ] Day 15: TODO
+- [ ] Day 16: TODO
+- [ ] Day 17: TODO
+- [x] [Day 18: Boiling Boulders :volcano:](https://github.com/ggapac/advent-of-code-2022/tree/main/day18)
 - [ ] Day 19
 - [ ] Day 20
 - [ ] Day 21
