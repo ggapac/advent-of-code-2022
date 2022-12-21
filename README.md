@@ -23,7 +23,7 @@ This year I'm *GO*nna learn a new programming language!
 - [x] [Day 18: Boiling Boulders :volcano:](https://github.com/ggapac/advent-of-code-2022/tree/main/day18)
 - [ ] Day 19
 - [x] [Day 20: Grove Positioning System :woman_technologist:](https://github.com/ggapac/advent-of-code-2022/tree/main/day20)
-- [ ] Day 21
+- [x] [Day 21: Monkey Math :abacus:](https://github.com/ggapac/advent-of-code-2022/tree/main/day20)
 - [ ] Day 22
 - [ ] Day 23
 - [ ] Day 24
