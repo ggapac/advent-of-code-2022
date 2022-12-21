@@ -52,7 +52,7 @@ func main() {
 		}
 	}
 
-	// find zero position and map values
+	// find zero position and map final values
 	zeroPosition := 0
 	endFile := make(map[int]int)
 	for i := 0; i < len(file); i++ {
